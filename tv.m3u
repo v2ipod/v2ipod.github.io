@@ -47,6 +47,60 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
+http://r.jdshipin.com/qClQf
+#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-name="明珠台" group-title="•港澳台",「HK」明珠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#EXTINF:-1 tvg-name="J2" group-title="•港澳台",「HK」J2
+http://r.jdshipin.com/ndGgS
+#EXTINF:-1 tvg-name="J2" group-title="•港澳台",「HK」J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台",「HK」无线新闻
+http://bziyunshao.synology.me:8890/bysid/83
+#EXTINF:-1 tvg-name="无线财经体育资讯台" group-title="•港澳台",「HK」无线财经体育资讯台
+https://tv.iill.top/tvb/6
+#EXTINF:-1 tvg-name="事件直播頻道1" group-title="•港澳台",「HK」事件直播頻道1
+https://tv.iill.top/tvb/8
+#EXTINF:-1 tvg-name="事件直播頻道2" group-title="•港澳台",「HK」事件直播頻道2
+https://tv.iill.top/tvb/10
+#EXTINF:-1 tvg-name="VIUTV" group-title="•港澳台",「HK」VIU TV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-name="凤凰中文" group-title="•港澳台",「HK」凤凰中文
+http://113.117.74.17:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="•港澳台",「HK」凤凰资讯
+http://113.117.74.18:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" group-title="•港澳台",「HK」凤凰香港
+http://113.117.74.18:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="星河台" group-title="•港澳台",「HK」星河台
+http://113.117.74.17:8081/hls/135/index.m3u8
+#EXTINF:-1 tvg-name="澳门莲花" group-title="•港澳台",「MO」澳门莲花
+https://p.ggiptv.com/v/macaulotustv.php
+#EXTINF:-1 group-title="•港澳台",大爱2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="•港澳台",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="•港澳台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="•港澳台",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="•港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="•港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 ,CCTV4K
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1 ,CCTV4K
@@ -1014,60 +1068,6 @@ http://113.117.74.17:8081/hls/66/index.m3u8
 http://113.117.74.17:8081/hls/80/index.m3u8
 #EXTINF:-1 group-title="•特色",广东珠江
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
-#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
-http://r.jdshipin.com/n90gt
-#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 tvg-name="翡翠台" group-title="•港澳台",「HK」翡翠台
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 tvg-name="明珠台" group-title="•港澳台",「HK」明珠台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#EXTINF:-1 tvg-name="J2" group-title="•港澳台",「HK」J2
-http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-name="J2" group-title="•港澳台",「HK」J2
-http://r.jdshipin.com/Nr5jq
-#EXTINF:-1 tvg-name="无线新闻" group-title="•港澳台",「HK」无线新闻
-http://bziyunshao.synology.me:8890/bysid/83
-#EXTINF:-1 tvg-name="无线财经体育资讯台" group-title="•港澳台",「HK」无线财经体育资讯台
-https://tv.iill.top/tvb/6
-#EXTINF:-1 tvg-name="事件直播頻道1" group-title="•港澳台",「HK」事件直播頻道1
-https://tv.iill.top/tvb/8
-#EXTINF:-1 tvg-name="事件直播頻道2" group-title="•港澳台",「HK」事件直播頻道2
-https://tv.iill.top/tvb/10
-#EXTINF:-1 tvg-name="VIUTV" group-title="•港澳台",「HK」VIU TV
-http://r.jdshipin.com/vSJvl
-#EXTINF:-1 tvg-name="凤凰中文" group-title="•港澳台",「HK」凤凰中文
-http://113.117.74.17:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="•港澳台",「HK」凤凰资讯
-http://113.117.74.18:8081/hls/36/index.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" group-title="•港澳台",「HK」凤凰香港
-http://113.117.74.18:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="星河台" group-title="•港澳台",「HK」星河台
-http://113.117.74.17:8081/hls/135/index.m3u8
-#EXTINF:-1 tvg-name="澳门莲花" group-title="•港澳台",「MO」澳门莲花
-https://p.ggiptv.com/v/macaulotustv.php
-#EXTINF:-1 group-title="•港澳台",大爱2
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="•港澳台",大立电视
-http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="•港澳台",东森美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",番薯台
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="•港澳台",华语电视
-http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",华语电视
-http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="•港澳台",TVBS亚洲
-http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="•港澳台",人间卫视
-http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 #EXTINF:-1 group-title="•音乐",音乐石榴
 https://yang-1989.eu.org/live/huya/17091681
 #EXTINF:-1 group-title="•音乐",治愈•放松
