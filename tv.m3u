@@ -310,13 +310,13 @@ http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东频道",广东体育
 http://18.167.145.83:9870/go11.php?name=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东频道",广东体育
-https://php.17186.eu.org/gdtv/gdty.m3u8
+http://91tv.top:9901/hls/53/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东频道",广东珠江
 http://r.jdshipin.com/sE5vO
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东频道",广东珠江
 http://18.167.145.83:9870/go11.php?name=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东频道",广东新闻
-https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+http://91tv.top:9901/hls/51/index.m3u8
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东频道",广东影视
 http://18.167.145.83:9870/go11.php?name=%E5%B9%BF%E4%B8%9C%E5%BD%B1%E8%A7%86
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.112114.xyz/logo/广东影视.png" group-title="广东频道",广东影视
