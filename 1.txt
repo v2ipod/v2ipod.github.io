@@ -139,8 +139,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 「HK」星河台,http://113.117.74.17:8081/hls/135/index.m3u8
 「MO」澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 台视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 三立财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -149,6 +147,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 中视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
