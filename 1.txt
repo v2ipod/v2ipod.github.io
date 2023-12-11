@@ -160,8 +160,6 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 「HK」J2,http://bziyunshao.synology.me:8890/bysid/82
 「HK」无线新闻,http://bziyunshao.synology.me:8890/bysid/83
-「HK」无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
-「HK」无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
 「HK」无线财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 「HK」RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
@@ -447,6 +445,7 @@ KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
 儿童歌曲2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 
 港澳台「P」,#genre#
+「HK」无线新闻,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=153399&extension=ts
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 Top Hits 2023,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1701000552/ei/COFiZcvRGIT02roPqOSxmA0/ip/223.16.10.147/id/lVmOUVRDKE8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/hk/siu/1/spc/UWF9f83M7303sjCXjsXVE1yQt6ryeowuVCtl8-NPRlO8Ilz8BmdW7Qg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIgOpmfsCPmkYrdJ_goBk8U8MF9DRpywkSihOeA1a49LqwCIQDwE7e9ONbosFmgeV7YGp0_p9BK-aGAjy9A5z3o8vZXhA%3D%3D/file/index.m3u8
