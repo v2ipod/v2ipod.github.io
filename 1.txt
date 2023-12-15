@@ -125,6 +125,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 广东体育,http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
 广东体育,http://18.167.145.83:9870/go11.php?name=%E5%B9%BF%E4%B8%9C%E4%BD%93%E8%82%B2
 广东体育,http://91tv.top:9901/hls/53/index.m3u8
+广东珠江,http://[2409:8087:7001:20:1000::5]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+广东珠江,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
 广东珠江,http://91tv.top:9901/hls/50/index.m3u8
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
