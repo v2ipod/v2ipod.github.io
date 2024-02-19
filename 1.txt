@@ -163,6 +163,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 「HK」J2,http://bziyunshao.synology.me:8890/bysid/82
 「HK」无线新闻,http://[240e:3b1:22d3:baa0:211:32ff:fedf:cd76]:8890/bysid/83
+「HK」无线新闻,http://183.45.76.78:8890/bysid/83
 「HK」无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
 「HK」无线财经,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
