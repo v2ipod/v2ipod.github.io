@@ -191,6 +191,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」翡翠台,http://r.jdshipin.com/qClQf
 「HK」明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 「HK」J2,http://bziyunshao.synology.me:8890/bysid/82
+「HK」无线新闻,http://[240e:3b1:22d9:6f00:211:32ff:fedf:cd76]:8890/bysid/83
 「HK」无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
 「HK」RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
