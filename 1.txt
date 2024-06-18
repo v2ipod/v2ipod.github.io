@@ -191,15 +191,20 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 港澳台,#genre#
 「HK」翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 「HK」翡翠台,http://r.jdshipin.com/qClQf
 「HK」明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 「HK」J2,http://bziyunshao.synology.me:8890/bysid/82
+「HK」J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 「HK」无线新闻,http://bziyunshao.synology.me:8890/bysid/83
 「HK」无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 「HK」无线新闻,https://histar.zapi.us.kg/?id=tvb-news
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
+「HK」无线财经,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 「HK」RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+「HK」RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 「HK」RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+「HK」RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 「HK」HOY 资讯台,https://cdn.ggapk.net/live/tv?id=ec86lmyXR28uuiIM8liYOR5xvjyAd74Ki5r8umJn7INIylTWeymXVb1DKpyfOPV3zzZTeXzTccqbNt8v0b1yxpVvDfG2F1RWVNrmR0b5Q7VezcfaOKORIKtLd_vPTb9T-75K78XxpFuVHGwERxj6fGbIdu0_11cbTS8xWljLRVmXPjNtoMK3x8nNrtoRakYALZE0o3mZ-dSDS9zfTp87-JoFKeSS20yzeDbHvV8bfOUIKTOg-22NF9Vx8DSGVA169onQ7v9fKnQhRKFUTP0EORr0geOntm1gGT_qCJbMJ4vIQzpYG3o9z2PX1OiRGh_4zeX2w-AfW9JTM-g2O5aX5t00z5xHfAReeeihJRJ7Zb61CvTo5NWEAMyXZMOe7N1PaGo15PQ2pEjS1FsL5_xC8-WlCUAWMpYz6txlsYbqhCmgdxT9e0r3PUDmHIAEg4GqDb1lkRESTAlSYXAWpyTUpac3qzL8LjhlQYeqCwB86uKZaGQAbokaiuI4LBK2qOtzgQucVdLlMDcw1Aff4lgCxse5lvAGZrttgw9Jt6SKbUteVFv6jEWiDqSp1cUaAVKJUwROqR1l&idp=28f1i538TKQJNA_hy_xSbkT_N3Yz7YAddTIAcRXnafR6Fm6zjrWsaZP46A
 「HK」事件直播頻道1,https://tv.iill.top/tvb/8
 「HK」事件直播頻道2,https://tv.iill.top/tvb/10
