@@ -54,7 +54,7 @@ CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001301/i
 CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
+梅州综合,http://php.jdshipin.com:8880/chudian.php?id=mzzh
 
 高清频道,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -80,6 +80,7 @@ CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/P
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV-16 奥林匹克 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV-16 奥林匹克 4K,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
 CCTV-16 奥林匹克 4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV-16 奥林匹克 4K,http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
 CCTV-16 奥林匹克 4K,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8
@@ -193,7 +194,9 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 「HK」翡翠台,http://r.jdshipin.com/qClQf
+「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 「HK」明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+「HK」明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 「HK」J2,http://bziyunshao.synology.me:8890/bysid/82
 「HK」J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 「HK」无线新闻,http://bziyunshao.synology.me:8890/bysid/83
@@ -201,6 +204,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 「HK」无线新闻,https://histar.zapi.us.kg/?id=tvb-news
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
 「HK」无线财经,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+「HK」无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
+「HK」TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 「HK」RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 「HK」RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 「HK」RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
