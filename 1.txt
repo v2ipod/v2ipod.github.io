@@ -329,13 +329,15 @@ BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006
 「HK」无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 「HK」无线新闻,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.ctv
 「HK」无线新闻,https://stream1.freetv.fun/a2870617ade0afbb63a2c2b2bfd3a3a9b696d34ef4bc2ab60c9105524842f63c.ctv
+「HK」无线新闻,https://stream1.freetv.fun/a5939b915562fd0fa5b663475ec27ae72074b246a4675c8812de73566f836931.m3u8
 「HK」无线新闻,https://stream1.freetv.fun/9ea2bd19dad64267c45dd099d17b58c607bdfc20d8bacfae167f176590805853.m3u8
 「HK」无线新闻,https://stream1.freetv.fun/6a978aebd22e15f9e693db16b5ff1d685fcb8c146eb8500196daec0282b7c51f.m3u8
 「HK」无线财经,http://bziyunshao.synology.me:8890/bysid/85
+「HK」无线财经,https://stream1.freetv.fun/a0b3c6cefcf208f4fe0f5ebbc1d19606d1e1616fed019ab117800a0c51ce0374.ctv
 「HK」无线财经,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 「HK」无线财经,http://live.cooltv.top/tv/tvb.php?id=2&hq
 「HK」TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-「HK」RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+「HK」RTHK31,https://stream1.freetv.fun/7f10de0a444dfb58125efec7099f30e2d09bfd6cca13a50da342d32c1f5b7e02.ctv
 「HK」RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
 「HK」RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 「HK」RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
@@ -343,9 +345,13 @@ BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006
 「HK」VIU TV,http://r.jdshipin.com/vSJvl
 「HK」凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 「HK」凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-「HK」凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-「HK」凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
+「HK」凤凰资讯,https://stream1.freetv.fun/d752de21bc656316343923c324009989705b7270bce03c76395bb560b8bd8322.ctv
+「HK」凤凰香港,https://stream1.freetv.fun/0cd18a5d094edecae2967d526214fd72941ce80a391a75ddd7b3d706d7828aca.ctv
+「HK」凤凰香港,https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
+「HK」凤凰香港,https://stream1.freetv.fun/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+「HK」凤凰香港,https://stream1.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 「HK」星河台,http://113.117.74.17:8081/hls/135/index.m3u8
+「HK」ASN,https://stream1.freetv.fun/ad57bf5142ed012e0136c81607b6c5ed5f54f381cc9e760b2e8e78e67a1d3481.ctv
 「MO」澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
 中天新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 台视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
