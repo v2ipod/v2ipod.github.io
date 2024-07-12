@@ -322,6 +322,7 @@ BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006
 「HK」凤凰资讯,https://stream1.freetv.fun/d752de21bc656316343923c324009989705b7270bce03c76395bb560b8bd8322.ctv
 「HK」凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 「HK」凤凰资讯,https://stream1.freetv.fun/d752de21bc656316343923c324009989705b7270bce03c76395bb560b8bd8322.ctv
+「HK」凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
 「HK」凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 「HK」凤凰香港,https://stream1.freetv.fun/0cd18a5d094edecae2967d526214fd72941ce80a391a75ddd7b3d706d7828aca.ctv
 「HK」凤凰香港,https://stream1.freetv.fun/700ea6400ee9b3b005ff77288979e7b1333837e2f1366bb27dacff11435cd72f.ctv
