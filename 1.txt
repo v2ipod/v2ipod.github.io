@@ -336,6 +336,7 @@ BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006
 三立财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻台,https://www.youtube.com/watch?v=w87VGpgd90U
 中视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 三立新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
