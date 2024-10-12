@@ -288,6 +288,7 @@ BesTV 4K 「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006
 军事评论,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
 
 港澳台,#genre#
+「HK」翡翠台,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.ctv
 「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 「HK」翡翠台,https://stream1.freetv.fun/e0810f349d52a45fd1faf771402e6a04596a8e2398155f25e1141dc4d7746e4d.m3u8
 「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
