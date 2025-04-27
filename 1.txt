@@ -1,5 +1,5 @@
 AKTV,#genre#
-無線新聞台,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 無線新聞台,http://bziyunshao.synology.me:8890/bysid/83
 HOY 资讯,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
