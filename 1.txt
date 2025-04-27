@@ -458,6 +458,99 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 
 
 国际,#genre#
+AXN电影,https://pixman.mytvsuper.com.mp/Smart.php?id=axn_twn
+ELta影剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eltayingju_twn
+EYE-戏剧,https://pixman.mytvsuper.com.mp/Smart.php?id=eyetvxiju_twn
+八大娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=badaentertain
+八大综合,https://pixman.mytvsuper.com.mp/Smart.php?id=badazhonghe
+大爱贰,https://pixman.mytvsuper.com.mp/Smart.php?id=daai2_twn
+大爱壹,https://pixman.mytvsuper.com.mp/Smart.php?id=daai_twn
+东森财经,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvcaijing_twn
+东森洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvwestern
+东森幼幼,https://pixman.mytvsuper.com.mp/Smart.php?id=yoyo_twn
+凤凰香港,https://pixman.mytvsuper.com.mp/Smart.php?id=hkphoenix_twn
+凤凰资讯,https://pixman.mytvsuper.com.mp/Smart.php?id=phoenixinfo_hd
+公视台语,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv2_twn
+华视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ctshd_twn
+寰宇财经,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyutaiwan_twn
+寰宇新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
+靖天,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtianintl_twn
+靖天卡通,https://pixman.mytvsuper.com.mp/Smart.php?id=jingtiancartoon_twn
+龙华电影,https://pixman.mytvsuper.com.mp/Smart.php?id=xingwei_movie
+龙华经典,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuajingdian_twn
+龙华偶像,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaidol_twn
+龙华戏剧,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn
+龙华洋片,https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuawestern_twn
+龙祥电影,https://pixman.mytvsuper.com.mp/Smart.php?id=lungxiangtime_twn
+美亚电影台,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+民视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvhd_taiwan
+民视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ftvnew_taiwan
+三立闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=sanlitaiwan
+台视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=ttv_taiwan
+台视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvnews_twn
+台视综合,https://pixman.mytvsuper.com.mp/Smart.php?id=ttvzhonghe
+天映,https://pixman.mytvsuper.com.mp/Smart.php?id=Celestial
+天映,https://pixman.mytvsuper.com.mp/Smart.php?id=ctv18_twn
+纬来电影,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
+纬来精彩,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandspecial_twn
+纬来日本,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandjapan
+纬来育乐,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandyule
+纬来综合,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandzonghe
+无线翡翠,https://pixman.mytvsuper.com.mp/Smart.php?id=jade_twn
+无线明珠,https://pixman.mytvsuper.com.mp/Smart.php?id=pearl_twn
+无线娱乐,https://pixman.mytvsuper.com.mp/Smart.php?id=Tvbentertainment
+中视经典,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshi_twn
+中视闽南,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshihd_twn
+中视新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=zhongshinews_twn
+中天新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+
+
+TVB明珠,http://php.jdshipin.com/smt.php?id=pearl_twn
+TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVB娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
+TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
+翡翠台版TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+美亚电影台,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+天映,http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+无线翡翠频4k,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+无线华丽国标,http://php.jdshipin.com/PLTV/iptv.php?id=huali
+无线明珠,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠粤高,http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
+无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
+无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 鳳凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -578,31 +671,6 @@ ELTA體育2台,rtmp://9hv9.mine.nu/sat/md011
 中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
 NHK WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 
-金磚中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金磚英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-Channel 5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Animax HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-Love Nature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Love Nature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-ViuTV,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viu1_twn&sp=chaojidianshi
-ViuTV6,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=viusix_twn&sp=chaojidianshi
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-DW NEWS,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 
 
 
