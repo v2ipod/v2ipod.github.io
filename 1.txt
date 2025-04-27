@@ -1,3 +1,128 @@
+AKTV,#genre#
+Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+無線新聞台,http://bziyunshao.synology.me:8890/bysid/83
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
+
+
+港澳,#genre#
+
+HOY 资讯,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰港澳,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
+翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8
+HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
+澳视澳门,http://cdn.163189.xyz/live/asam/stream.m3u8
+澳视卫星,http://cdn.163189.xyz/live/as/stream.m3u8
+重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
+凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
+TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
+翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
+翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+明珠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+明珠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+翡翠台北美版(TVB J1),https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB J1,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+TVB Plus,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+无线新闻,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+无线新闻,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+VIUTV,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+VIUTV,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+HOY TV,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+凤凰中文,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+凤凰资讯,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰港澳,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰港澳,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+美亚电影,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+重温经典,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+澳视澳门,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=as
+RTHK31,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK32,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+CCTV1港澳版,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+八度空间,https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/8tv/stream.m3u8
+CH5,https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/ch5/stream.m3u8
+CH8,https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/ch8/stream.m3u8
+CHU,https://tmxk.serv00.net/mytv.php?url=https://cdn6.163189.xyz/live/chu/stream.m3u8
+翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=jade_twn
+华丽翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali
+无线新闻台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=inews_twn
+TVB星河,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
+千禧经典台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB娱乐新闻台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Tvbentertainment
+天映频道,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Celestial
+天映经典,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Celestial2
+Astro AOD,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=aod
+Astro AEC,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=AEC
+爱奇艺,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Qiyi
+Astro QJ,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Quanjia
+Astro欢喜台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=Huahee
+八度空间,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/smt.php?id=TV8
+华丽翡翠台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+亚洲武侠,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB生活台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+TVB娱乐新闻台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+无线新闻台,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB星河,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+龙华电影,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华洋片,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhyp/stream.m3u8
+
+广东,#genre#
+
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东珠江,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+
+
 移动央视,#genre#
 CCTV-1综合,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-2财经,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
@@ -331,20 +456,6 @@ CCTV-17农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/322122576
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 兵团卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
-数字,#genre#
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影,http://171.88.145.30:4022/udp/239.93.42.5:5140
-CHC家庭影院,http://171.88.145.30:4022/udp/239.93.42.6:5140
-CHC动作电影,http://171.88.145.30:4022/udp/239.93.42.7:5140
-CHC家庭影院,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad
-CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-CHC动作电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-CHC家庭影院,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-CHC影迷电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
 
 国际,#genre#
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -494,70 +605,11 @@ DW NEWS,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 
 
-AKTV,#genre#
-無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-TVBS-新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-千禧經典台,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-ROCK Action,http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+
 
 
 
 港澳台,#genre#
-「HK」翡翠台,http://cdntv.757888.xyz:2095/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-「HK」翡翠台,https://bxtvcdn.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 「HK」翡翠台,https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.ctv
 「HK」翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 「HK」翡翠台,https://stream1.freetv.fun/e0810f349d52a45fd1faf771402e6a04596a8e2398155f25e1141dc4d7746e4d.m3u8
