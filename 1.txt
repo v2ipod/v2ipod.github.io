@@ -93,6 +93,10 @@ TVB星河,https://tmxk.serv00.net/mytv.php?url=http://php.jdshipin.com/TVOD/iptv
 龙华戏剧,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 龙华洋片,https://tmxk.serv00.net/mytv.php?url=https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 
+4K,#genre#
+LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 移动央视,#genre#
