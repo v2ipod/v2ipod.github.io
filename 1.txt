@@ -1,4 +1,5 @@
 AKTV,#genre#
+無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
 Animax (HK),https://s1.m16tv.cfd/aktv/animaxhk/AKTV.m3u8
 AXN,https://s1.m16tv.cfd/aktv/axn/AKTV.m3u8
 Channel 5 HD,https://s1.m16tv.cfd/aktv/channel5hd/AKTV.m3u8
@@ -11,7 +12,7 @@ TVB Plus,https://s1.m16tv.cfd/aktv/tvbplus/AKTV.m3u8
 tvN,https://s1.m16tv.cfd/aktv/tvn/AKTV.m3u8
 明珠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-19/AKTV.m3u8
 明珠台,https://s1.m16tv.cfd/aktv/CH-2/AKTV.m3u8
-無線新聞台,https://s1.m16tv.cfd/aktv/CH-1/AKTV.m3u8
+
 美亞電影台(HK),https://s1.m16tv.cfd/aktv/hk/AKTV.m3u8
 翡翠剧集台(北美),https://s1.m16tv.cfd/aktv/CH-18/AKTV.m3u8
 翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
