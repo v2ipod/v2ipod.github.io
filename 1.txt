@@ -774,8 +774,6 @@ TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新聞台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 東森財經新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-momo購物一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-momo購物二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 運通財經台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 信大電視台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 DW News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
