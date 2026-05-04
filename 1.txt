@@ -155,24 +155,6 @@ CCTV-17,http://111.23.208.105:9908/tsfile/live/0019_1.m3u8
 CCTV-17,http://8.134.184.162:8314/tsfile/live/0019_1.m3u8
 CCTV-17,http://8.134.184.162:38519/tsfile/live/0019_1.m3u8
 
-CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
-CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
-CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
-CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
-CCTV5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
-CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
-CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
-CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
-CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
-CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
-CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
-CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
-CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
-CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
-CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
-CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
-CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
-CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
 
 
 
@@ -564,6 +546,28 @@ CHC影迷电影,http://itms3.sdlk.vip:3333/hls/63/index.m3u8
 
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
 CCTV1[1920*1080],http://iptv.4666888.xyz/iptv2A.php?id=7
+
+
+CCTV1,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv4
+CCTV5,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5
+CCTV5+,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv5p
+CCTV6,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv6
+CCTV7,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv7
+CCTV8,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv8
+CCTV9,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv9
+CCTV10,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv10
+CCTV11,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv11
+CCTV12,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv12
+CCTV13,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv13
+CCTV14,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv14
+CCTV15,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv15
+CCTV16,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv16
+CCTV17,https://php.jdshipin.com:2096/TVOD/iptv.php?id=cctv17
+
+
 
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV1[1920*1080],https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
