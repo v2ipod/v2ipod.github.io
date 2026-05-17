@@ -1,5 +1,9 @@
 2026/05/17更新,#genre#
+无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+翡翠台,https://cdn6.163189.xyz/163189/fct
+翡翠台(字幕),https://o11.163189.xyz/stream/tvb/fct/
 翡翠台4K(字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+NOW新闻台,https://cdn.163189.xyz/163189/now
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 CCTV1港澳版,https://cdn6.163189.xyz/163189/cctv1
 CCTV13,https://cdn3.163189.xyz/163189/cctv13
@@ -10,7 +14,7 @@ HOY资讯台,https://cdn.163189.xyz/163189/hoy78
 HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
 ViuTV,https://cdn10.163189.xyz/stream/163189/viu/
 ViuTVsix,https://cdn10.163189.xyz/stream/163189/viu6/
-NOW新闻台,https://cdn.163189.xyz/163189/now
+
 RTHK31,https://cdn.163189.xyz/163189/rthk31
 RTHK32,https://cdn.163189.xyz/163189/rthk32
 澳视澳门,https://cdn6.163189.xyz/163189/asam
@@ -24,10 +28,9 @@ RTHK32,https://cdn.163189.xyz/163189/rthk32
 TVB1,https://cdn6.163189.xyz/163189/tvb1
 TVBJ1,https://cdn6.163189.xyz/163189/j1
 翡翠剧集台,https://cdn6.163189.xyz/163189/tvbd
-翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台(字幕),https://o11.163189.xyz/stream/tvb/fct/
+
 明珠台(字幕),https://o11.163189.xyz/stream/tvb/mzt/
-无线新闻台,https://cdn6.163189.xyz/163189/wxxw
+
 广东珠江,https://cdn2.163189.xyz/163189/gdzj
 广东体育,https://cdn2.163189.xyz/163189/gdty
 八度空间,https://cdn6.163189.xyz/163189/8tv
