@@ -131,6 +131,71 @@ CCTV16+,http://192.168.31.15:38766/cctv164k.m3u8
 CCTV4K,http://192.168.31.15:38766/cctv4k.m3u8
 CCTV8K,http://192.168.31.15:38766/cctv8k.m3u8
 
+CCTV-1 综合,http://192.168.31.15:28787/live/cctv1.m3u8
+CCTV-2 财经,http://192.168.31.15:28787/live/cctv2.m3u8
+CCTV-3 综艺,http://192.168.31.15:28787/live/cctv3.m3u8
+CCTV-4 中文国际,http://192.168.31.15:28787/live/cctv4.m3u8
+CCTV-5 体育,http://192.168.31.15:28787/live/cctv5.m3u8
+CCTV-5+ 体育赛事,http://192.168.31.15:28787/live/cctv5plus.m3u8
+CCTV-6 电影,http://192.168.31.15:28787/live/cctv6.m3u8
+CCTV-7 国防军事,http://192.168.31.15:28787/live/cctv7.m3u8
+CCTV-8 电视剧,http://192.168.31.15:28787/live/cctv8.m3u8
+CCTV-9 纪录,http://192.168.31.15:28787/live/cctv9.m3u8
+CCTV-10 科教,http://192.168.31.15:28787/live/cctv10.m3u8
+CCTV-11 戏曲,http://192.168.31.15:28787/live/cctv11.m3u8
+CCTV-12 社会与法,http://192.168.31.15:28787/live/cctv12.m3u8
+CCTV-13 新闻,http://192.168.31.15:28787/live/cctv13.m3u8
+CCTV-14 少儿,http://192.168.31.15:28787/live/cctv14.m3u8
+CCTV-15 音乐,http://192.168.31.15:28787/live/cctv15.m3u8
+CCTV-16 奥林匹克,http://192.168.31.15:28787/live/cctv16hd.m3u8
+CCTV-16 奥林匹克4K,http://192.168.31.15:28787/live/cctv164k.m3u8
+CCTV-17 农业农村,http://192.168.31.15:28787/live/cctv17.m3u8
+CCTV-4K 超高清,http://192.168.31.15:28787/live/cctv4k.m3u8
+CCTV-8K 超高清,http://192.168.31.15:28787/live/cctv8k.m3u8
+CGTN 英语,http://192.168.31.15:28787/live/cgtn.m3u8
+CGTN 法语,http://192.168.31.15:28787/live/cgtnfayu.m3u8
+CGTN 俄语,http://192.168.31.15:28787/live/cgtneyu.m3u8
+CGTN 阿拉伯语,http://192.168.31.15:28787/live/cgtnalaboyu.m3u8
+CGTN 西班牙语,http://192.168.31.15:28787/live/cgtnxibanyayu.m3u8
+CGTN 纪录,http://192.168.31.15:28787/live/cgtnwaiyujilu.m3u8
+CCTV 风云剧场,http://192.168.31.15:28787/live/cctvfengyunjuchang.m3u8
+CCTV 第一剧场,http://192.168.31.15:28787/live/cctvdiyijuchang.m3u8
+CCTV 怀旧剧场,http://192.168.31.15:28787/live/cctvhuaijiujuchang.m3u8
+
+北京卫视,http://192.168.31.15:28787/live/beijingws.m3u8
+江苏卫视,http://192.168.31.15:28787/live/jiangsuws.m3u8
+东方卫视,http://192.168.31.15:28787/live/dongfangws.m3u8
+浙江卫视,http://192.168.31.15:28787/live/zhejiangws.m3u8
+湖南卫视,http://192.168.31.15:28787/live/hunanws.m3u8
+湖北卫视,http://192.168.31.15:28787/live/hubeiws.m3u8
+广东卫视,http://192.168.31.15:28787/live/guangdongws.m3u8
+广西卫视,http://192.168.31.15:28787/live/guangxiws.m3u8
+黑龙江卫视,http://192.168.31.15:28787/live/heilongjiangws.m3u8
+海南卫视,http://192.168.31.15:28787/live/hainanws.m3u8
+重庆卫视,http://192.168.31.15:28787/live/chongqingws.m3u8
+深圳卫视,http://192.168.31.15:28787/live/shenzhenws.m3u8
+四川卫视,http://192.168.31.15:28787/live/sichuanws.m3u8
+河南卫视,http://192.168.31.15:28787/live/henanws.m3u8
+东南卫视,http://192.168.31.15:28787/live/fujiandongnanws.m3u8
+贵州卫视,http://192.168.31.15:28787/live/guizhouws.m3u8
+江西卫视,http://192.168.31.15:28787/live/jiangxiws.m3u8
+辽宁卫视,http://192.168.31.15:28787/live/liaoningws.m3u8
+安徽卫视,http://192.168.31.15:28787/live/anhuiws.m3u8
+河北卫视,http://192.168.31.15:28787/live/hebeiws.m3u8
+山东卫视,http://192.168.31.15:28787/live/shandongws.m3u8
+天津卫视,http://192.168.31.15:28787/live/tianjinws.m3u8
+吉林卫视,http://192.168.31.15:28787/live/jilinws.m3u8
+陕西卫视,http://192.168.31.15:28787/live/shannxiws.m3u8
+宁夏卫视,http://192.168.31.15:28787/live/ningxiaws.m3u8
+内蒙古卫视,http://192.168.31.15:28787/live/neimengguws.m3u8
+云南卫视,http://192.168.31.15:28787/live/yunnanws.m3u8
+山西卫视,http://192.168.31.15:28787/live/shanxiws.m3u8
+青海卫视,http://192.168.31.15:28787/live/qinghaiws.m3u8
+西藏卫视,http://192.168.31.15:28787/live/xizangws.m3u8
+中国教育电视台一套,http://192.168.31.15:28787/live/cetv1.m3u8
+新疆卫视,http://192.168.31.15:28787/live/xinjiangws.m3u8
+
+
 
 📺移动,#genre#
 CCTV-1,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8
